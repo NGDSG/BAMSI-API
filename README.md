@@ -4,7 +4,10 @@ BAMSI-api
 Official BAMSI python API.
 
 # Installation
-git clone link
+
+```
+git clone https://github.com/NGDSG/BAMSI-API.git
+```
 
 # Usage
 
