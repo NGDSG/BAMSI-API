@@ -43,6 +43,8 @@ job_tracking_id = bamsi_client.spawn(**query_args)
 job_status = bamsi_client.job_status(tracking=job_tracking_id)
 ```
 
+## DOI(Citation)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1264670.svg)](https://doi.org/10.5281/zenodo.1264670)
 
 See examples/ for more.
 
